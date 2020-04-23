@@ -2,7 +2,7 @@
     {
         "name": "Stofa",
         "url": "https:\/\/stofa.dk",
-        "ipv6": true,
+        "ipv6": true
         "comment": "Har leveret IPv6 til de f\u00f8rste erhvervskunder. H\u00e5ndterer foresp\u00f8rgsler case by case. Er i gang med at definere en plan for implementering af IPv6 som et standard produkt.",
         "partial": true,
         "sources": [
