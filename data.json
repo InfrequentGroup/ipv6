@@ -16,7 +16,7 @@
     {
         "name": "EWII",
         "url": "https:\/\/ewii.com\/privat\/fiberbredbaand",
-        "ipv6": false,
+        "ipv6": false
         "comment": "Der er desv\u00e6rre ingen nyheder omkring IPv6 p\u00e5 nuv\u00e6rende tidspunkt.",
         "partial": false,
         "sources": [
